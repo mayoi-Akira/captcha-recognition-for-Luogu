@@ -13,7 +13,7 @@
 // ==/UserScript==
 
 (() => {
-  const server = "http://8.130.64.15:3636";
+  const server = "http://dlnu-acm.ac.cn:3636";
 
   const canvas = document.createElement("canvas");
   const ctx = canvas.getContext("2d");
